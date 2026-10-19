@@ -1,14 +1,15 @@
 # markdownTarea2
 ![](https://latiendacomprometida.com/img/cms/solarpunk-arte-significado-mexico-activismo.png)
 
-# Mundo libre
-## Familia
-### Lista
-+ **Presentación**  
+| El Proyecto | Instalación | Instrucciones |  Operacionales |  Agradecimientos |
+|:---------|:--------|:--------:|--------:|--------:|    
+|El Proyecto|Instalación|Instrucciones|Operacionales|Agradecimientos|
+
+## Presentación
 Bienvenidos a la documentación oficial de nuestra plataforma **Solarpunk**. Este documento sirve como un mapa detallado y una declaración de intenciones técnicas para todos los desarrolladores que deseen contribuir a un ecosistema de **software verde**. Aquí encontrarás la estructura del proyecto, los pasos esenciales para replicar el entorno de desarrollo y las reglas del sistema de gestión energética comunitaria.  
 
-+ El Proyecto
-+ **Inslación**  
+## El Proyecto 1.0
+### **Instación**  
 Esta sección detalla los pasos necesarios para el **montaje físico, adecuación del territorio e integración de infraestructuras** para poner en funcionamiento un asentamiento urbano basado en el modelo **Solarpunk**. Sigue estas fases cronológicas para desplegar el entorno físico y estructural antes de la llegada de la comunidad humana.
 
     **Requisitos Previos del Territorio**
@@ -32,6 +33,7 @@ Este proyecto pertenece a la comunidad y al futuro sostenible que construimos ju
 |El Proyecto|Instalación|Instrucciones|Operacionales|Agradecimientos|
 
 ## El Proyecto
+## El Proyecto 2.0
 ### Motivo principal
 Deseo un mundo donde se viva en paz consigo mismo y con la sociedad.
 ### Experiencia 
