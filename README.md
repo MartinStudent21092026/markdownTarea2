@@ -20,7 +20,7 @@ Antes de comenzar la construcción e instalación arquitectónica, el terreno se
 + Instrucciones
 + Operacionales
 + Agradecimientos
-## Motivo principal
+
 
 | El Proyecto | Instalación | Instrucciones |  Operacionales |  Agradecimientos |
 |:---------|:--------|:--------:|--------:|--------:|    
