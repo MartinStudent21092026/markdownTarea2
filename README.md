@@ -19,7 +19,12 @@ Antes de comenzar la construcción e instalación arquitectónica, el terreno se
 
 + Instrucciones
 + Operacionales
-+ Agradecimientos
++ **Agradecimientos**
+La realización y el despliegue del proyecto urbano **Solarpunk** han sido posibles gracias al esfuerzo colectivo, la colaboración abierta y el compromiso de diversas comunidades e instituciones. Queremos expresar nuestra profunda gratitud a todos ellos:
+
+A la Comunidad Solarpunk Global, a los Pioneros de la Movilidad Activa y Civil, al Equipo de Desarrollo de MycoData, a los Arquitectos y Diseñadores de Permacultura
+
+Este proyecto pertenece a la comunidad y al futuro sostenible que construimos juntos día a día.
 
 
 | El Proyecto | Instalación | Instrucciones |  Operacionales |  Agradecimientos |
@@ -31,7 +36,7 @@ Antes de comenzar la construcción e instalación arquitectónica, el terreno se
 Deseo un mundo donde se viva en paz consigo mismo y con la sociedad.
 ### Experiencia 
 Cuento con experiencia en atención al cliente, trabajo en equipo y resolución de problemas, destacándome por mi responsabilidad, puntualidad y compromiso con las tareas asignadas. Tengo facilidad para aprender nuevas funciones, adaptarme a diferentes entornos laborales y mantener una actitud positiva y profesional, siempre buscando cumplir los objetivos y contribuir al buen funcionamiento de la empresa.
-## Instrucciones Operacionales
+### Instrucciones Operacionales
 1. Acceder al repositorio o ubicación donde se encuentra el proyecto.
 2. Verificar que se dispone de los permisos necesarios.
 3. Descargar el proyecto mediante Git o en formato ZIP.
